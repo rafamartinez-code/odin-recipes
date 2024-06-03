@@ -1,4 +1,9 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     background-color:rgba(250, 240, 230, 1);
+    color: rgba(101, 67, 33, 1);
+}
+
+p, li {
+    font-size: 15px;
 }
